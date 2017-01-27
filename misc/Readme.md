@@ -1,2 +1,2 @@
 ## A directory for misellaneous stuff. 
-Nothing really relevant should be here!
+Anthony Rivera's Area for things that aren't to relevant!
