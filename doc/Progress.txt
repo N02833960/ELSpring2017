@@ -1,0 +1,12 @@
+1) Project Description
+We’re building a pan/tilt camera that can be controlled by a Raspberry Pi using two servo motors.
+2) Work so far: 
+a. Designed pan/tilt base to attach to servo motors
+b. Gathered some base materials 
+c. Camera attached to Pi and taking pictures correctly
+3) To be done
+a. Assemble base and attach motors
+b. Application to control motors
+c. Application to control camera
+4) Contributions
+     So far all of our work has been done in class (besides buying materials) so it’s been an evenly collaborative effort. 
